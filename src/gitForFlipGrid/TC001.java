@@ -18,6 +18,7 @@ public class TC001 {
         gitCommandsList.add("gitCheckout");
         gitCommandsList.add("gitPush");
         System.out.println("gitCommandsList = " + gitCommandsList);
+        System.out.println("Trying to learn git and gitHub");
 
 
     }
