@@ -7,6 +7,7 @@ public class TC002 {
         System.out.println("k");
         System.out.println("jdglk");
         System.out.println("xlXHgkHG;");
-        
+        System.out.println("zjfgGlG");
+
     }
 }
